@@ -1,4 +1,4 @@
-# 📚 Library Management System (C++)
+# Library Management System (C++)
 
 This is a console-based Library Management System written in **C++**.
 The program uses **file handling** to store and retrieve data so that
@@ -8,7 +8,7 @@ The complete implementation is contained in a single file: `main.cpp`.
 
 ---
 
-## 📁 Files Used
+## Files Used
 
 - `main.cpp` – Complete source code
 - `books.txt` – Stores book records
@@ -16,7 +16,7 @@ The complete implementation is contained in a single file: `main.cpp`.
 
 ---
 
-## 📂 File Handling
+## File Handling
 
 - Data is **automatically loaded** from files when the program starts
 - Data is **automatically saved** to files when the program exits
@@ -24,7 +24,7 @@ The complete implementation is contained in a single file: `main.cpp`.
 
 ---
 
-## 📘 books.txt format
+## books.txt format
 
 BookID,Title,Author,Copies
 
@@ -34,7 +34,7 @@ Example:
 
 ---
 
-## 👤 members.txt format
+## members.txt format
 
 MemberID,Name,IssuedBookIDs
 
@@ -48,14 +48,14 @@ Example:
 
 ---
 
-## ▶️ Compile and Run
+## Compile and Run
 
 g++ main.cpp library.cpp book.cpp member.cpp -o main 
 ./main
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Understanding of Object-Oriented Programming in C++
 - File handling using ifstream and ofstream
