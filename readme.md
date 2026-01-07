@@ -67,5 +67,5 @@ g++ main.cpp library.cpp book.cpp member.cpp -o main
 
 ## Author
 
-Mehal Srivastava 
+[Mehal Srivastava] 
 Library Management System – C++ College Project
