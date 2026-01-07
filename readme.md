@@ -50,8 +50,8 @@ Example:
 
 ## ▶️ Compile and Run
 
-g++ main.cpp -o library  
-./library
+g++ main.cpp library.cpp book.cpp member.cpp -o main 
+./main
 
 ---
 
